@@ -1,0 +1,62 @@
+<!doctype html>
+
+	<html> 
+
+
+		<head>
+	<title>Meu site</title>
+	<meta charset="utf-8">
+
+		</head>
+
+	<body>
+
+                    <img src="https://www.revistafullpower.com.br/wp-content/uploads/2020/03/bu01.jpg" width="400">
+					<h2>THE BULGATTI</h2>
+
+			<h6>Loren ipsum dolor sit amet, consectetur adipiscing elit, Suspendisse euismod a ex faucibus semper.</h6>
+			<hr>
+			
+					<h2>Vantagens de ser cliente</h2>
+			
+			<ol type="1">
+				<li>Atendimento <b>rápido</li></b>
+				<li>Preços especiais</li>
+				<li>Muitas cidades</li>
+			</ol>
+			<hr>
+		
+					<h2>O que os clientes estão dizendo?</h2>
+
+					<h6><i>"Gostei demais do atendimento,foi muito rápido e com certeza irei voltar!"</i><h6><h5>Maria Almeida</h5>	
+					<hr>
+							
+				
+
+
+					<h2>Mapa do site</h2>
+
+
+			
+			<li>Home</li>
+			<li>Quem Somos</li> 
+			<li>Contato</li>
+			
+			</ol>
+
+
+
+
+	</body>
+	
+
+
+
+
+
+
+
+
+
+
+	</html>
